@@ -8,3 +8,9 @@ Temas a ver en el curso introductorio:
   - Condicionales
   - Ciclos
   - Array y objetos
+- Manipulación de DOM
+  - Conectacr JS con HTML
+  - Leer HTML desde JS
+  - Escribir HTML desde JS
+  - Eventos en JS
+  - addEventListener
